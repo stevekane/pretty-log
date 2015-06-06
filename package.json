@@ -1,0 +1,23 @@
+{
+  "name": "pretty-log",
+  "version": "1.0.0",
+  "description": "Tiny module that provides better logging for javascript objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stevekane/pretty-log.git"
+  },
+  "keywords": [
+    "log",
+    "prettyprint"
+  ],
+  "author": "Steve Kane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevekane/pretty-log/issues"
+  },
+  "homepage": "https://github.com/stevekane/pretty-log#readme"
+}
