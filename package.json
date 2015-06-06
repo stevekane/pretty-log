@@ -1,5 +1,5 @@
 {
-  "name": "pretty-log",
+  "name": "pretty-log-2",
   "version": "1.0.0",
   "description": "Tiny module that provides better logging for javascript objects",
   "main": "index.js",
